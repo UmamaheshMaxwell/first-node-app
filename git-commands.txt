@@ -1,3 +1,7 @@
 git init - To initialize the git repository 
 git remote add origin - Will help us adding our local repository to remote repository 
 git status - will check the status of current files and folders
+git add filename - will add the specific file to git repository
+git add . - will add all the files to git repository 
+git commit -am 'Setting up nodejs server'
+git push origin master ( deafult branch)
