@@ -4,8 +4,11 @@ git status - will check the status of current files and folders
 git add filename - will add the specific file to git repository
 git add . - will add all the files to git repository 
 git commit -am 'Setting up nodejs server'
-git push origin master ( deafult branch) - Will push change to remote repository
+git push origin master ( deafult branch) - Will push change to remote repository ( into master branch)
 git pull origin master - will help us pull the latest changes from remote repository 
+
+git push origin feature/branch - Will push change to remote repository ( into feature branch)
+git pull orogin feature/branch  - will help us pull the latest changes from remote repository ( from feature branch)
 
 Git Branches
 ------------
