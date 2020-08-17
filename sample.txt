@@ -1,0 +1,53 @@
+Node.Js is an environment to run the javascript in the server side
+
+Javascript - frontend validation 
+            minorr HTML manipulation 
+            ajax calls 
+            angular Js
+            knockoutks
+            backbonejs
+            Angaulr
+            ReactJs
+
+            2009 - Ryan Dhal - That helped javascript to run the the backend  - node.js
+
+MEAN  stack developer 
+
+MERN - 
+M - MonogoDB - BSON file / JSON 
+E -ExpressJS - javascript
+A -Angular - javascript/ R - ReactJS
+N - Nodejs - javascript
+
+1. npm init 
+2. npm install package (express)
+3. this will create node_modules folder 
+
+// vaniall javascript - var 
+// ES6 / ECMA Script - const, let
+
+var a =1; - Dynamic language 
+console.log(a);
+
+string s ="uma";
+
+var a =1;
+var a = "uma";
+var a = true;
+var a = {};
+var a =[];
+console.log(a)
+
+// callback function 
+
+function sample(a,b){
+    console.log(a, b)
+    b();
+}
+
+
+sample(1, function(){
+    console.log('Hello')
+})
+
+.gitignore - help me to ignore the files or folders which should not be part of my commit 
